@@ -1,0 +1,28 @@
+- title: "# Events"
+  url: events
+- title: Pentesting Tips
+  url: pentesting_tips
+  links:
+    - title: "# AD Pentesting"
+      url: "pentesting_tips/ad"
+    - title: "# Linux Pentesting"
+      url: "pentesting_tips/linux"
+    - title: "# Windows Pentesting"
+      url: "pentesting_tips/windows"
+      children:
+        - title: "Enumeration"
+          url: "pentesting_tips/windows#eEnumeration"
+        - title: "Information Gathering"
+          url: "pentesting_tips/windows#information-gathering"
+        - title: "Lateral Movement"
+          url: "pentesting_tips/windows#lateral-movement"
+        - title: "Exploitation"
+          url: "pentesting_tips/windows#exploitation"
+        - title: "Credential Attacks"
+          url: "pentesting_tips/windows#credential-attacks"
+        - title: "Articles"
+          url: "pentesting_tips/windows#articles"
+    - title: "# Osint"
+      url: "pentesting_tips/osint"
+    - title: "# Cheatsheets"
+      url: "pentesting_tips/cheatsheets"
