@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Documentation
-permalink: /docs/
+title: "# Events"
+permalink: /events/
 ---
 
 # Documentation
