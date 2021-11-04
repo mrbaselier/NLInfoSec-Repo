@@ -4,7 +4,7 @@ title: Welcome to the JB NL InfoSec Discord Resources
 permalink: /
 ---
 
-# Welcome to Docsy Jekyll
+# Welcome to the JB NL InfoSec Discord Resources
 
 This is a starter template for a docsy jekyll theme.
 

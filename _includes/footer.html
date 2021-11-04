@@ -17,6 +17,13 @@
               </a>
             </li>
           {% endif %}
+          {% if site.discord %}
+            <li class="list-inline-item mx-2 h3" data-toggle="tooltip" data-placement="top" title="" aria-label="Discord" data-original-title="Discord">
+              <a class="text-white" target="_blank" href="{{ site.discord }}">
+                <i class="fab fa-discord"></i>
+              </a>
+            </li>
+          {% endif %}
         </ul>
       </div>
       <div class="col-6 col-sm-4 text-right text-xs-center order-sm-3">
@@ -29,9 +36,7 @@
         </ul>
       </div>
       <div class="col-12 col-sm-4 text-center py-2 order-sm-2">
-        <small class="text-white">© {{ 'now' | date: "%Y" }} {{ site.author }} All Rights Reserved</small>
-        {% if site.privacy %}<small class="ml-1"><a href="{{ site.privacy }}" target="_blank">Privacy Policy</a></small>{% endif %}
-        <p class="mt-2"><a href="/about/">About Docsy</a></p>	
+        <small class="text-white">Al het gepubliceerde werk op deze site is gelicenceerd onder de "<a href="http://creativecommons.org/licenses/by/3.0/" target="_blank" rel="noopener">Creative Commons Attribution 3.0 Unported License</a>". Deel alles royaal maar vermeld altijd mijn naam en link terug naar de website!</small>	
       </div>
     </div>
   </div>
