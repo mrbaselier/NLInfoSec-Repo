@@ -17,3 +17,7 @@ It's great to see you here, visiting our master repository of collected awesomen
  1 *Visit our Discord Server and share your greatness in the right channel
  
  2 *Fork our repo, make your changes and request a "pull" so we can check and merge all greatness together
+ 
+ ![alt text][logo]
+ [logo]: https://jarnobaselier.nl/images/emoticons/ThankU200.png "NL InfoSec Emoticon"
+ 
