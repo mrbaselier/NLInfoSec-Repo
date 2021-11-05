@@ -3,9 +3,7 @@ email: website@jarnobaselier.nl
 author: Jarno Baselier
 
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This GitHub Repo is to share valuable information from the JB InfoSec NL Discord Community. We use this as a resource to collect all cool stuff and make this a great resource by itself.
 
 baseurl: "/" # the subpath of your site, e.g. /blog
 
