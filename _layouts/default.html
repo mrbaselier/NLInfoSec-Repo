@@ -23,17 +23,18 @@
           </div>
           <main class="col-12 col-md-9 col-xl-8 pl-md-5" role="main">
             <nav aria-label="breadcrumb" class="d-none d-md-block d-print-none">
-	      <ol class="breadcrumb spb-1">
-              {% assign crumbs = page.url | append: "/"  | replace: '//', '/' | split: '/' %}
-              {% for crumb in crumbs offset: 1 %}{% if crumb != "index" %}{% if forloop.last %}
+	            <ol class="breadcrumb spb-1">
+                {% assign crumbs = page.permalink | append: "/"  | replace: '//', '/' | split: '/' %}
+                {% for crumb in crumbs offset: 1 %}{% if crumb != "index" %}{% if forloop.last %}
                 <li class="breadcrumb-item active" aria-current="page">
-	          <a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
+	                <a href="{{ site.url }}{{ page.permalink }}">{{ page.title }}</a>
                 </li>{% else %}
-                {% if page.url != "/docs/" %}<li class="breadcrumb-item">
+                {% if page.url != "/docs/" %}
+                <li class="breadcrumb-item">
                   <a href="{{ site.url }}{{ site.baseurl }}{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}">{% if crumb == "docs" %}Documentation{% else %}{{ crumb | replace:'-',' ' | remove:'.html' | capitalize }}{% endif %}</a>
                 </li>{% endif %}{% endif %}
                 {% endif %}{% endfor %}
-	      </ol>
+	            </ol>
            </nav>
            <div class="td-content">
 	      {{ content }}	
