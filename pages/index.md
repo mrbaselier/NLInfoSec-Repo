@@ -15,4 +15,5 @@ It's great to see you here, visiting our master repository of collected awesomen
 ## How to add greatness here?
 
  1 *Visit our Discord Server and share your greatness in the right channel
+ 
  2 *Fork our repo, make your changes and request a "pull" so we can check and merge all greatness together
