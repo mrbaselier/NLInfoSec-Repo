@@ -6,7 +6,7 @@ permalink: /
 
 # Welcome to the JB NL InfoSec Discord Resources
 
-Please visit our awesome Infosec Community @ Discord: https://discord.com/invite/Rw6bcKj
+Please visit our awesome Infosec Community @ Discord: (https://discord.com/invite/Rw6bcKj "NL InfoSec Discord")
 
 ## Purpose
 
