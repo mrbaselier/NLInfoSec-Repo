@@ -5,11 +5,9 @@ permalink: /about/
 
 # About
 
-This is a [starter template](https://vsoch.github.io/docsy-jekyll/) for a Docsy jekyll theme, based
-on the Beautiful [Docsy](https://github.com/google/docsy) that renders with Hugo. This version is intended for
-native deployment on GitHub pages. See the [respository]({{ site.repo }}) for more details.
+This is our NL InfoSec Discord Master Repo. Here we collect all greatness from our channel in clean, seperated chapters. Please give us a shoutout on the Discord channel as support and let us know all the great things we need to add here!
 
 ## Support
 
-If you need help, please don't hesitate to [open an issue](https://www.github.com/{{ site.github_user }}/{{ site.github_repo }}).
+If you need help, please let us know @ Discord  ["NL InfoSec Discord"](https://discord.com/invite/Rw6bcKj)
 
