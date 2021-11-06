@@ -8,21 +8,12 @@ permalink: /reverse_engineering/tools
 
 A curated list of useful tools and resources for reverse engineering.
 
-## Table of Contents
-
-- [File / Binary Enumeration](#file--binary-enumeration)
-- [Proces Analyzers](#proces-analyzers)
-- [Reverse Engineering Suites](#reverse-engineering-suites)
-- [Online analysis / Emulation / Sandboxing](#online-analysis--emulation--sandboxing)
-- [Offline analysis / Emulation / Sandboxing](#offline-analysis--emulation--sandboxing)
-- [.NET Decompilers](#net-decompilers)
-- [Interesting Articles](#interesting-articles)
 
 ## File / Binary Enumeration
 
   * [Strings] - Default "strings" tool to get readable strings from binaries and files
   * [Flare Floss](https://github.com/mandiant/flare-floss) - The FLARE Obfuscated String Solver (FLOSS, formerly FireEye Labs Obfuscated String Solver) uses advanced static analysis techniques to automatically deobfuscate strings from malware binaries.
- 
+
 ## Proces Analyzers
 
   * [SysInternals Process Monitor](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon) - Process Monitor is an advanced monitoring tool for Windows that shows real-time file system, Registry and process/thread activity.
@@ -47,5 +38,4 @@ A curated list of useful tools and resources for reverse engineering.
 
 ## Interesting Articles
   * [Hybrid Analysis](https://www.netspi.com/blog/technical/web-application-penetration-testing/magic-bytes-identifying-common-file-formats-at-a-glance/) - Magic Bytes – Identifying Common File Formats at a Glance
-
 
