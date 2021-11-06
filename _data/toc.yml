@@ -1,5 +1,3 @@
-# - title: "# Events"
-#   url: events
 - title: Pentesting Tips
   url: pentesting_tips
   links:
@@ -13,3 +11,7 @@
       url: "pentesting_tips/osint"
     - title: "# Cheatsheets"
       url: "pentesting_tips/cheatsheets"
+- title: "Vulnerability Databases"
+  url: databases
+- title: "learning platforms"
+  url: learningplatforms
