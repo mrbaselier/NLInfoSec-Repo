@@ -16,7 +16,9 @@
 - title: "Reverse Engineering"
   url: reverse_engineering
   links:
-    - title: "# RE Tools"
+    - title: "# Tools"
       url: "reverse_engineering/tools"
+    - title: "# AD Pentesting"
+      url: "pentesting_tips/ad"
 - title: "learning platforms"
   url: learningplatforms
