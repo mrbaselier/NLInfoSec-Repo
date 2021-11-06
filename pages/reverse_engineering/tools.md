@@ -9,7 +9,6 @@ permalink: /reverse_engineering/tools
 A curated list of useful tools and resources for reverse engineering.
 
 
-
 ## File / Binary Enumeration
 
   * [Strings] - Default "strings" tool to get readable strings from binaries and files
