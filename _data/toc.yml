@@ -13,5 +13,10 @@
       url: "pentesting_tips/cheatsheets"
 - title: "Vulnerability Databases"
   url: databases
+- title: "Reverse Engineering"
+  url: reverse_engineering
 - title: "learning platforms"
+  links:
+    - title: "# RE Tools"
+      url: "reverse_engineering/tools"
   url: learningplatforms
