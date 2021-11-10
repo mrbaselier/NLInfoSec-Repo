@@ -11,6 +11,8 @@
       url: "pentesting_tips/osint"
     - title: "# Cheatsheets"
       url: "pentesting_tips/cheatsheets"
+- title: "WebApp Testing Checklist"
+  url: webapp_testing_checklist
 - title: "Vulnerability Databases"
   url: databases
 - title: "Reverse Engineering"
