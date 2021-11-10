@@ -15,8 +15,8 @@
   url: webapp_testing_checklist
 - title: "Vulnerability Databases"
   url: databases
-- title: "Shells"
-  url: shells
+- title: "Shell"
+  url: shell
   links:
     - title: "# Bind Shells"
       url: "shells/bind_shells"
