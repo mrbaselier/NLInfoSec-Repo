@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "WebApp Testing Checklist"
-permalink: /webapp_testing_checklist
+permalink: /webapp_testing_checklist/
 ---
 
 # WebApp Testing Checklist
