@@ -36,11 +36,6 @@ $socat -d -d OPENSSL-LISTEN:8888,cert=/opt/Certificates/shell.pem,verify=0 STDOU
 
 #Creating Certificate:
 $openssl req -newkey rsa:2048 -nodes -keyout shell.key -x509 -days 364 -out shell.crt
->>NL
->>Noord-Brabant
->>Breda
->>JB
->>ICT
 
 $cat shell.key shell.crt > shell.pem
 ```
