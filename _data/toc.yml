@@ -15,12 +15,12 @@
   url: webapp_testing_checklist
 - title: "Vulnerability Databases"
   url: databases
-- title: "Reverse Engineering"
 - title: "Shells"
   url: shells
   links:
     - title: "# Bind Shells"
       url: "shells/bind_shells"
+- title: "Reverse Engineering"
   url: reverse_engineering
   links:
     - title: "# Tools"
