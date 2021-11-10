@@ -19,7 +19,9 @@
   url: shell
   links:
     - title: "# Bind Shells"
-      url: "shells/bind_shells"
+      url: "shell/bind_shells"
+    - title: "# Reverse Shells"
+      url: "shell/reverse_shells"
 - title: "Reverse Engineering"
   url: reverse_engineering
   links:
