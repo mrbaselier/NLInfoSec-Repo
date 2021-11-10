@@ -1,3 +1,11 @@
+---
+layout: page
+title: "# Bind Shells"
+permalink: /shells/bind_shells/
+---
+
+# Bind Shells
+
 ## Powershell:
 
 ```powershell
