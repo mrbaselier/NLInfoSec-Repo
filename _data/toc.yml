@@ -16,6 +16,11 @@
 - title: "Vulnerability Databases"
   url: databases
 - title: "Reverse Engineering"
+- title: "Shells"
+  url: shells
+  links:
+    - title: "# Bind Shells"
+      url: "shells/bind_shells"
   url: reverse_engineering
   links:
     - title: "# Tools"
