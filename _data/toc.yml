@@ -13,6 +13,8 @@
       url: "pentesting_tips/cheatsheets"
 - title: "WebApp Testing Checklist"
   url: webapp_testing_checklist
+- title: "Exfiltrate data techniques"
+  url: exfiltrate_upload_data
 - title: "Vulnerability Databases"
   url: databases
 - title: "Shell"
