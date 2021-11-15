@@ -4,7 +4,7 @@ title: "ToDo After Ransomware Attack"
 permalink: /todo_after_ransomware_attack/
 ---
 
-# WebApp Testing Checklist
+# ToDo After Ransomware Infection / Attack (checklist)
 
 ### Technical Team(s)
 
