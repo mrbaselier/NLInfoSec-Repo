@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "# Bind Shells"
-permalink: /shell/bind_shells/
+permalink: /shells/bind_shells/
 ---
 
 # Bind Shells
