@@ -18,6 +18,9 @@ permalink: /todo_after_ransomware_attack/
 - [ ]  After machines are recovered start recovering your data (from backup or from decryption). Make sure that the machines you recover to are not infected with the ransomware (otherwise data will be encrypted again).
 - [ ]  Backup ALL encrypted data the you need and is not recoverable at the moment. Hope for a decryption solution in the future!
 - [ ]  WORST-CASE-SCENARIO: you have no backup and the encryption is not reversable. In this case you need to make a decision about the impact on the company. Can you start over without damaging the company too much... or can you simple not function anymore without the data? If the last answer is "yes" you need to think about paying the ransom. My advice is NEVER PAY RANSOM (and support these criminal activities) but in some cases there is simply no choice. Get in contact with the criminals and agree to a lower price (usually there is room for negotiation). Also ask for a sample of decryption before you pay.
+- [ ]  After recovery is done and tested restart the business. Then take the time to evaluate with professionals and act according the lessons learned. Start hardening your network.
+
+
 
 ### Incident Response Coordination
 
