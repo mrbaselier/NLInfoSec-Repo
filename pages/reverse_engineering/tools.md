@@ -13,6 +13,7 @@ A curated list of useful tools and resources for reverse engineering.
 
   * [Strings] - Default "strings" tool to get readable strings from binaries and files
   * [Flare Floss](https://github.com/mandiant/flare-floss) - The FLARE Obfuscated String Solver (FLOSS, formerly FireEye Labs Obfuscated String Solver) uses advanced static analysis techniques to automatically deobfuscate strings from malware binaries.
+  * [PEMonitor](https://www.winitor.com/) - Spot artifacts of executable files in order to ease and accelerate Malware Initial Assessment.
 
 ## Proces Analyzers
 
