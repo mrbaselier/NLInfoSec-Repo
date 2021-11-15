@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "ToDo After Ransomware Attack"
-permalink: /todo_after_ransomware_atack.md/
+permalink: /todo_after_ransomware_atack/
 ---
 
 # WebApp Testing Checklist
