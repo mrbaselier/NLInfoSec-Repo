@@ -21,6 +21,7 @@ permalink: /todo_after_ransomware_attack/
 - [ ]  After recovery is done and tested restart the business. Then take the time to evaluate with professionals and act according the lessons learned. Start hardening your network.
 
 Technical Flowchart:
+
 ![Ransomware Recovery Flowchart](https://jarnobaselier.nl/files/images/Ransomware-Recovery.jpg)
 
 ### Incident Response Coordination
