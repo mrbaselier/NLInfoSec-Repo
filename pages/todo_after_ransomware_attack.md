@@ -20,7 +20,8 @@ permalink: /todo_after_ransomware_attack/
 - [ ]  WORST-CASE-SCENARIO: you have no backup and the encryption is not reversable. In this case you need to make a decision about the impact on the company. Can you start over without damaging the company too much... or can you simple not function anymore without the data? If the last answer is "yes" you need to think about paying the ransom. My advice is NEVER PAY RANSOM (and support these criminal activities) but in some cases there is simply no choice. Get in contact with the criminals and agree to a lower price (usually there is room for negotiation). Also ask for a sample of decryption before you pay.
 - [ ]  After recovery is done and tested restart the business. Then take the time to evaluate with professionals and act according the lessons learned. Start hardening your network.
 
- ![Ransomware Recovery Flowchart](https://jarnobaselier.nl/files/images/Ransomware-Recovery.jpg)
+Technical Flowchart:
+![Ransomware Recovery Flowchart](https://jarnobaselier.nl/files/images/Ransomware-Recovery.jpg)
 
 ### Incident Response Coordination
 
