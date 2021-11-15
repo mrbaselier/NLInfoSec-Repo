@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "# Reverse Shells"
-permalink: /shell/reverse_shells/
+permalink: /shells/reverse_shells/
 ---
 
 # Reverse Shells
