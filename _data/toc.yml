@@ -1,8 +1,6 @@
 - title: Pentesting Tips
   url: pentesting_tips
   links:
-    - title: "# AD Pentesting"
-      url: "pentesting_tips/ad"
     - title: "# Linux Pentesting"
       url: "pentesting_tips/linux"
     - title: "# Windows Pentesting"
