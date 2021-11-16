@@ -11,6 +11,11 @@
       url: "pentesting_tips/osint"
     - title: "# Cheatsheets"
       url: "pentesting_tips/cheatsheets"
+- title: Active Directory Cheatsheets
+  url: active_directory_cheatsheets
+  links:
+    - title: "# AD Constrained Delegation"
+      url: "ad_cheatsheets/ad_contrained_delegation"
 - title: "WebApp Testing Checklist"
   url: webapp_testing_checklist
 - title: "Exfiltrate Data Techniques"
