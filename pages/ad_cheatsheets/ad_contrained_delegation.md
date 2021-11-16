@@ -1,3 +1,9 @@
+---
+layout: page
+title: "# AD Constrained Delegation"
+permalink: /ad_cheatsheets/ad_contrained_delegation
+---
+
 ## General Info
 
 If a frontend service does not use Kerberos authentication and the backend service does, it needs to be able to request a TGS to the frontend service from a KDC on behalf of the user who is authenticating against it. The S4U2Self extension enables this if the TRUSTED_TO_AUTH_FOR_DELEGATION value is present in the useraccountcontrol property.
