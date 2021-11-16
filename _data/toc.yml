@@ -12,7 +12,7 @@
     - title: "# Cheatsheets"
       url: "pentesting_tips/cheatsheets"
 - title: Active Directory Cheatsheets
-  url: active_directory_cheatsheets
+  url: ad_cheatsheets
   links:
     - title: "# AD Constrained Delegation"
       url: "ad_cheatsheets/ad_contrained_delegation"
