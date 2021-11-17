@@ -22,9 +22,7 @@ C:\AD\Tools\neo4j-community-4.1.1-windows\neo4j-community-4.1.1\bin\neo4j.bat in
 
 3.
 
-visit 
-
-[](http://localhost:7474/browser/)
+visit [http://localhost:7474/browser/](http://localhost:7474/browser/)
 
 4.
 
