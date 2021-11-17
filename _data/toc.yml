@@ -52,8 +52,6 @@
       url: "ad_cheatsheets/skeleton_key_attack"
     - title: "# Exploit WMI Security Descriptors"
       url: "ad_cheatsheets/exploit_wmi_security_descriptors"
-    - title: "# Mimikatz Commands"
-      url: "ad_cheatsheets/mimikatz_commands"
     - title: "# Other Resources"
       url: "ad_cheatsheets/other_resources"
 - title: "WebApp Testing Checklist"
