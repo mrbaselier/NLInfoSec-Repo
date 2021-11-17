@@ -6,10 +6,6 @@ permalink: /ad_cheatsheets/ad_uncontrained_delegation
 
 # AD Uncontrained Delegation
 
-## General Info
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4e002228-fee5-4f97-ae56-15357969177c/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4e002228-fee5-4f97-ae56-15357969177c/Untitled.png)
-
 ## Find Servers that has unconstrained delegation
 
 ```powershell
