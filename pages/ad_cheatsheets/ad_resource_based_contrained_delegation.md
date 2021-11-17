@@ -6,10 +6,6 @@ permalink: /ad_cheatsheets/ad_resource_based_contrained_delegation
 
 # AD Resource-Based Constrained Delegation
 
-## General Info
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e02d789f-068a-4da5-a64d-7775a5170567/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e02d789f-068a-4da5-a64d-7775a5170567/Untitled.png)
-
 ## Find GenericWrite ComputerAccounts
 
 This specific vector starts by compromising a domain account that has the GenericWrite access right on a computer account object (when a computerobject use PSExec to get into computer context).
