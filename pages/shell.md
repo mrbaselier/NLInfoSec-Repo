@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "# Shell"
+title: "# Shells"
 permalink: /shells/
 ---
 
