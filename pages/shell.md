@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "# Shells"
-permalink: /shells/
+title: "# Shell"
+permalink: /shell/
 ---
 
 # Shells
